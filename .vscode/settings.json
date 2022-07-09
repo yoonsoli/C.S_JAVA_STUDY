@@ -1,9 +1,14 @@
 {
   "java.project.sourcePaths": [
+    "day3/p3-1/src",
+    "day3/p2-6/src",
+    "day3/p2-5/src",
+    "day3/p2-3/src",
+    "day2/p2-4/src",
     "day2/p2-3/src",
     "day2/p2-2/src",
     "day2/p2-1/src",
     "day1/day1_problem/src",
-    "day2/p2-4/src"
+    "day3/p3-2/src"
   ]
 }
